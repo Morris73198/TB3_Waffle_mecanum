@@ -6,8 +6,8 @@ const int DXL_DIR_PIN = 84;
 
 const uint8_t FRONT_LEFT  = 1;  // 左前
 const uint8_t FRONT_RIGHT = 2;  // 右前 
-const uint8_t REAR_LEFT   = 3;  // 左后 
-const uint8_t REAR_RIGHT  = 4;  // 右后
+const uint8_t REAR_LEFT   = 3;  // 左後 
+const uint8_t REAR_RIGHT  = 4;  // 右後
 
 const float DXL_PROTOCOL_VERSION = 2.0;
 const int BASE_SPEED = 80;  
